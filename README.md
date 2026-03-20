@@ -1,1 +1,1 @@
-[![Portfolio Preview](https://raw.githubusercontent.com/Norielqt/portfolio-preview.png)](https://portfolio-norielqtt.vercel.app/)
+[![Portfolio Preview](https://github.com/Norielqt/Norielqt/portfolio-preview.png)](https://portfolio-norielqtt.vercel.app/)
